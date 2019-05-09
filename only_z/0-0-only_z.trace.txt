@@ -1,0 +1,11 @@
+= only_z =======================================================================
+$> gcc -Wextra -Wall -Werror only_z.c -o user_exe 
+
+= Test 1 ===================================================
+$> ./hjh3kzriydoff2or6xnka4ap 
+$> diff -U 3 user_output_test1 test1.output | cat -e
+
+Diff OK :D
+Grade: 1
+
+= Final grade: 1 ===============================================================

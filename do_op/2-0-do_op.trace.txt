@@ -1,0 +1,146 @@
+= do_op ========================================================================
+$> gcc -Wextra -Wall -Werror do_op.c -o user_exe 
+
+= Test 1 ===================================================
+$> ./z5qpsjdsusznef0pfi7s41m6 
+$> diff -U 3 user_output_test1 test1.output | cat -e
+
+Diff OK :D
+= Test 2 ===================================================
+$> ./rog6lfwp0rdbu1zsesgihcmt "5238" "*" "12920"
+$> diff -U 3 user_output_test2 test2.output | cat -e
+
+Diff OK :D
+= Test 3 ===================================================
+$> ./z5m5bvamelx5s578llt5hgul "-16892" "*" "-14444"
+$> diff -U 3 user_output_test3 test3.output | cat -e
+
+Diff OK :D
+= Test 4 ===================================================
+$> ./6lx6jo9ycyepabd4694ah89l "-1198" "*" "-14208"
+$> diff -U 3 user_output_test4 test4.output | cat -e
+
+Diff OK :D
+= Test 5 ===================================================
+$> ./6dj4pdngj7axhwtw6gneag7m "-316" "*" "-809"
+$> diff -U 3 user_output_test5 test5.output | cat -e
+
+Diff OK :D
+= Test 6 ===================================================
+$> ./khgdca0vggy7mfh3dyo0109m "9981" "+" "1106"
+$> diff -U 3 user_output_test6 test6.output | cat -e
+
+Diff OK :D
+= Test 7 ===================================================
+$> ./zllfgzyc6leucup5c6h91s8s "-2163" "+" "16474"
+$> diff -U 3 user_output_test7 test7.output | cat -e
+
+Diff OK :D
+= Test 8 ===================================================
+$> ./v215jg3uy7vk9h4476vw4ik8 "-7096" "+" "11537"
+$> diff -U 3 user_output_test8 test8.output | cat -e
+
+Diff OK :D
+= Test 9 ===================================================
+$> ./v3b1m56jfqf6w571jed6dpon "7140" "+" "9293"
+$> diff -U 3 user_output_test9 test9.output | cat -e
+
+Diff OK :D
+= Test 10 ==================================================
+$> ./pz0hw6wqkpdyszaejxbv7b2d "-11650" "+" "-16787"
+$> diff -U 3 user_output_test10 test10.output | cat -e
+
+Diff OK :D
+= Test 11 ==================================================
+$> ./13qjbue1hlwdlsq7o082asb4 "19501" "+" "13273"
+$> diff -U 3 user_output_test11 test11.output | cat -e
+
+Diff OK :D
+= Test 12 ==================================================
+$> ./coqvriegu5d9xjecdhdg4owi "-15688" "+" "6171"
+$> diff -U 3 user_output_test12 test12.output | cat -e
+
+Diff OK :D
+= Test 13 ==================================================
+$> ./czxxab1gawlwt1loj2wo865d "7895" "-" "-17783"
+$> diff -U 3 user_output_test13 test13.output | cat -e
+
+Diff OK :D
+= Test 14 ==================================================
+$> ./fosk6m3c2e3hgvquuqz6umtk "14116" "-" "-5810"
+$> diff -U 3 user_output_test14 test14.output | cat -e
+
+Diff OK :D
+= Test 15 ==================================================
+$> ./40yub8bvl9utlux7imnvgzd7 "-11860" "-" "8146"
+$> diff -U 3 user_output_test15 test15.output | cat -e
+
+Diff OK :D
+= Test 16 ==================================================
+$> ./0hie0kyaxt9xcmtvd2ckaxa3 "15221" "-" "13136"
+$> diff -U 3 user_output_test16 test16.output | cat -e
+
+Diff OK :D
+= Test 17 ==================================================
+$> ./11i40borvbp3si1xhs9ij36n "6801" "-" "17518"
+$> diff -U 3 user_output_test17 test17.output | cat -e
+
+Diff OK :D
+= Test 18 ==================================================
+$> ./5fvgnt26x72cxaku3aj7vroc "-15336" "/" "12515"
+$> diff -U 3 user_output_test18 test18.output | cat -e
+
+Diff OK :D
+= Test 19 ==================================================
+$> ./4z1vgaqjuhpmmk8jlgpqktey "-1217" "/" "-1414"
+$> diff -U 3 user_output_test19 test19.output | cat -e
+
+Diff OK :D
+= Test 20 ==================================================
+$> ./eebmu4vj2uzhuukx0fyni8jb "12343" "/" "-4452"
+$> diff -U 3 user_output_test20 test20.output | cat -e
+
+Diff OK :D
+= Test 21 ==================================================
+$> ./45u9crfgc6c59ck7w5jt3dm7 "13088" "/" "17525"
+$> diff -U 3 user_output_test21 test21.output | cat -e
+
+Diff OK :D
+= Test 22 ==================================================
+$> ./lw4onlpzjzatzpr619yeot4y "-7763" "/" "-6542"
+$> diff -U 3 user_output_test22 test22.output | cat -e
+
+Diff OK :D
+= Test 23 ==================================================
+$> ./ospat5lmy3zkr4i7yj7whtuj "-5985" "/" "-4977"
+$> diff -U 3 user_output_test23 test23.output | cat -e
+
+Diff OK :D
+= Test 24 ==================================================
+$> ./nblmvhe2u2ndobv6iwd8j0m6 "341122" "%" "310622"
+$> diff -U 3 user_output_test24 test24.output | cat -e
+
+Diff OK :D
+= Test 25 ==================================================
+$> ./rson59awqm4daiiv7ae0khzh "231167" "%" "319849"
+$> diff -U 3 user_output_test25 test25.output | cat -e
+
+Diff OK :D
+= Test 26 ==================================================
+$> ./u0kxrn5zepf3my2fbb38vinw "265533" "%" "397301"
+$> diff -U 3 user_output_test26 test26.output | cat -e
+
+Diff OK :D
+= Test 27 ==================================================
+$> ./s8b6374jr9k06qvuklq1yp5e "171015" "%" "122889"
+$> diff -U 3 user_output_test27 test27.output | cat -e
+
+Diff OK :D
+= Test 28 ==================================================
+$> ./6q2n8ar8rx2tral98w0qlz6c "12" "*" "1" "12"
+$> diff -U 3 user_output_test28 test28.output | cat -e
+
+Diff OK :D
+Grade: 1
+
+= Final grade: 1 ===============================================================

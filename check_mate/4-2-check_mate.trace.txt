@@ -1,0 +1,46 @@
+= check_mate ===================================================================
+$> gcc -Wextra -Wall -Werror main.c pieces.c -o user_exe 
+
+= Test 1 ===================================================
+$> ./c5ntztm1tpixma1i1tflx02o 
+$> diff -U 3 user_output_test1 test1.output | cat -e
+
+Diff OK :D
+= Test 2 ===================================================
+$> ./4aka8qymwudx51n1cmmer15q '...B.' '.B...' '$%^&*' '...K.' '.....'
+$> diff -U 3 user_output_test2 test2.output | cat -e
+
+Diff OK :D
+= Test 3 ===================================================
+$> ./tcq89665tnawt5zg5d4tz9yp  "...B." ".T..." "....." "...K." "....."
+$> diff -U 3 user_output_test3 test3.output | cat -e
+
+Diff OK :D
+= Test 4 ===================================================
+$> ./ro2h7ayiu88crrurq2i4lqz8 "K"
+$> diff -U 3 user_output_test4 test4.output | cat -e
+
+Diff OK :D
+= Test 5 ===================================================
+$> ./p3953lsukbiau2ygm1ezcz5p "BPKP" "PRP." ".Q.." "..P."
+$> diff -U 3 user_output_test5 test5.output | cat -e
+
+Diff OK :D
+= Test 6 ===================================================
+$> ./ulb2szzg79xm9h2e16lvjxxw "B....." "......" "......" "......" "......" ".....K"
+$> diff -U 3 user_output_test6 test6.output | cat -e
+
+Diff OK :D
+= Test 7 ===================================================
+$> ./h2itk5pvqj2mwt9xtb3d6s1u "K....." "......" "......" "......" "......" ".....B"
+$> diff -U 3 user_output_test7 test7.output | cat -e
+
+Diff OK :D
+= Test 8 ===================================================
+$> ./e04if800tayrwr08sr99wjxz '........' '........' '.P....P.' '...B.B..' '....Q...' '..R..R..' '......K.' '...R....'
+$> diff -U 3 user_output_test8 test8.output | cat -e
+
+Diff OK :D
+Grade: 1
+
+= Final grade: 1 ===============================================================

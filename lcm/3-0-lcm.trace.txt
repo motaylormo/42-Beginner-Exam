@@ -1,0 +1,46 @@
+= lcm ==========================================================================
+$> gcc -Wextra -Wall -Werror main.c lcm.c -o user_exe 
+
+= Test 1 ===================================================
+$> ./ly0lc0g1hoj3vtm3wzocr2rg 132 72
+$> diff -U 3 user_output_test1 test1.output | cat -e
+
+Diff OK :D
+= Test 2 ===================================================
+$> ./0ogskzix1fzx7jij6wumok42 54 45
+$> diff -U 3 user_output_test2 test2.output | cat -e
+
+Diff OK :D
+= Test 3 ===================================================
+$> ./3f3nwwwt1c0yyvs5v8vadq66 13 2
+$> diff -U 3 user_output_test3 test3.output | cat -e
+
+Diff OK :D
+= Test 4 ===================================================
+$> ./7326nb2o9zq5hj7ph22i2v6g 41 4
+$> diff -U 3 user_output_test4 test4.output | cat -e
+
+Diff OK :D
+= Test 5 ===================================================
+$> ./lqsqarweif2omb0nynsrpvw7 0 1
+$> diff -U 3 user_output_test5 test5.output | cat -e
+
+Diff OK :D
+= Test 6 ===================================================
+$> ./83vjctjqxww69febkczh8cxi 1 0
+$> diff -U 3 user_output_test6 test6.output | cat -e
+
+Diff OK :D
+= Test 7 ===================================================
+$> ./5i3gqffte4glgsryl19oc22w 67 15
+$> diff -U 3 user_output_test7 test7.output | cat -e
+
+Diff OK :D
+= Test 8 ===================================================
+$> ./pihs9n17jkxu9q4k2oan3nmm 89 74
+$> diff -U 3 user_output_test8 test8.output | cat -e
+
+Diff OK :D
+Grade: 1
+
+= Final grade: 1 ===============================================================

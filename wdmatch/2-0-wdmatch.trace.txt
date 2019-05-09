@@ -1,0 +1,106 @@
+= wdmatch ======================================================================
+$> gcc -Wextra -Wall -Werror wdmatch.c -o user_exe 
+
+= Test 1 ===================================================
+$> ./v3euoe3r69jxfiooh2op20sz 
+$> diff -U 3 user_output_test1 test1.output | cat -e
+
+Diff OK :D
+= Test 2 ===================================================
+$> ./3c8uwpeae1zfyg97s27tszy3 "salut a tous tout le monde"
+$> diff -U 3 user_output_test2 test2.output | cat -e
+
+Diff OK :D
+= Test 3 ===================================================
+$> ./hl5563d09fjystunwt4crqo3 "salut" "a" "tous" "tout" "le" "monde"
+$> diff -U 3 user_output_test3 test3.output | cat -e
+
+Diff OK :D
+= Test 4 ===================================================
+$> ./cv31sdc7nfkxcto009h9q9sn "llo" "helllo"
+$> diff -U 3 user_output_test4 test4.output | cat -e
+
+Diff OK :D
+= Test 5 ===================================================
+$> ./38vtw4quuxq30tmpiswnvc2c "TE4qegS3" "1TEl4RqmegfSH3"
+$> diff -U 3 user_output_test5 test5.output | cat -e
+
+Diff OK :D
+= Test 6 ===================================================
+$> ./21lkugeat8x55gs733umt83b "HXgbn" "iFvyQrE9ObGRl4Po13oC6T5UNGtE"
+$> diff -U 3 user_output_test6 test6.output | cat -e
+
+Diff OK :D
+= Test 7 ===================================================
+$> ./qia9rr0bq63siwny9oa8zs9k "COd" "9IU4SNgELFGIoHeU8hPfkYZ"
+$> diff -U 3 user_output_test7 test7.output | cat -e
+
+Diff OK :D
+= Test 8 ===================================================
+$> ./k6r84zvnu760gm7sbzjwl0tp "9eLPY" "wqDpZJQ"
+$> diff -U 3 user_output_test8 test8.output | cat -e
+
+Diff OK :D
+= Test 9 ===================================================
+$> ./ktoighyho7xk75pmn6qpwziq "DgCPoL" "4OD5bgvCVMPXolqLk"
+$> diff -U 3 user_output_test9 test9.output | cat -e
+
+Diff OK :D
+= Test 10 ==================================================
+$> ./iq17pokp299d23lxpg82zbry "lW" "1ClfuWJ2"
+$> diff -U 3 user_output_test10 test10.output | cat -e
+
+Diff OK :D
+= Test 11 ==================================================
+$> ./nq6gltuznkpdv0jfkcl5rasl "qV" "PqKRV"
+$> diff -U 3 user_output_test11 test11.output | cat -e
+
+Diff OK :D
+= Test 12 ==================================================
+$> ./4wiyej0iq9cng2tl04je1cy9 "tNHI" "tkN5HgIvf"
+$> diff -U 3 user_output_test12 test12.output | cat -e
+
+Diff OK :D
+= Test 13 ==================================================
+$> ./aiypnhgyah0wwi3wulzjm0kl "nO56t" "P1ubLig6DX0tcopWZm4pENv1tBY"
+$> diff -U 3 user_output_test13 test13.output | cat -e
+
+Diff OK :D
+= Test 14 ==================================================
+$> ./1hfews7if7x62s94gxgdbc15 "qo7eZ" "8DyRefWAUGXD3EBVocGpsgKz"
+$> diff -U 3 user_output_test14 test14.output | cat -e
+
+Diff OK :D
+= Test 15 ==================================================
+$> ./isrj0ne5v51vfwey6gdus20b "tIPUqQ" "VtIPOGUqiYQHg"
+$> diff -U 3 user_output_test15 test15.output | cat -e
+
+Diff OK :D
+= Test 16 ==================================================
+$> ./amp818f38lq8vk3h2kj943nz "KG9b" "KYSG629ube"
+$> diff -U 3 user_output_test16 test16.output | cat -e
+
+Diff OK :D
+= Test 17 ==================================================
+$> ./pf8t6vstjue3n3d48veh7fq1 "l" "Irl"
+$> diff -U 3 user_output_test17 test17.output | cat -e
+
+Diff OK :D
+= Test 18 ==================================================
+$> ./qt3abcm7r7p2rz3tfgn7dvxm "KZQWn" "Ed6NoVxJWqlRsTm"
+$> diff -U 3 user_output_test18 test18.output | cat -e
+
+Diff OK :D
+= Test 19 ==================================================
+$> ./tj70akohhv3k21o99p7gc3k1 "2pTMB" "7UxtB3u6V7L2feBkSNA1Zw"
+$> diff -U 3 user_output_test19 test19.output | cat -e
+
+Diff OK :D
+= Test 20 ==================================================
+$> ./ts90fsoz714wde7zdk4kwxtw "Bz" "LYBz"
+$> diff -U 3 user_output_test20 test20.output | cat -e
+
+Diff OK :D
+Grade: 1
+
+= Final grade: 1 ===============================================================

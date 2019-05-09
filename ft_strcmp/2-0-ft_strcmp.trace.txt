@@ -1,0 +1,106 @@
+= ft_strcmp ====================================================================
+$> gcc -Wextra -Wall -Werror main.c ft_strcmp.c -o user_exe 
+
+= Test 1 ===================================================
+$> ./jiaekxykhcjrmzjwavm40ftm 
+$> diff -U 3 user_output_test1 test1.output | cat -e
+
+Diff OK :D
+= Test 2 ===================================================
+$> ./1yphhjquo5nmtf7km3guv4oq "salut a tous tout le monde"
+$> diff -U 3 user_output_test2 test2.output | cat -e
+
+Diff OK :D
+= Test 3 ===================================================
+$> ./1yj5wmi81dkptym6u40qnmg5 "salut" "a" "tous" "tout" "le" "monde"
+$> diff -U 3 user_output_test3 test3.output | cat -e
+
+Diff OK :D
+= Test 4 ===================================================
+$> ./omn2rv1xxckke6du98r3szwc "a" "ab"
+$> diff -U 3 user_output_test4 test4.output | cat -e
+
+Diff OK :D
+= Test 5 ===================================================
+$> ./ksnumtakcng2iing6vywr9fk "" ""
+$> diff -U 3 user_output_test5 test5.output | cat -e
+
+Diff OK :D
+= Test 6 ===================================================
+$> ./mf9a78is6tqpt40i4od96poi "RLWD12lvcGwe8Q" "LqHCNW98TX"
+$> diff -U 3 user_output_test6 test6.output | cat -e
+
+Diff OK :D
+= Test 7 ===================================================
+$> ./142v5wefdvlm6aiwd82x0tbi "ojFG8dHBrxIXSl" "X3czJqu8fyeU"
+$> diff -U 3 user_output_test7 test7.output | cat -e
+
+Diff OK :D
+= Test 8 ===================================================
+$> ./c4i5kla8r3n6mrx8abfoccss "KJsa2kvU" "VS7HYyWBFp3"
+$> diff -U 3 user_output_test8 test8.output | cat -e
+
+Diff OK :D
+= Test 9 ===================================================
+$> ./qa4srrv0vstxj49tipqrnkg6 "IqAsr3T" "IqAsr3T"
+$> diff -U 3 user_output_test9 test9.output | cat -e
+
+Diff OK :D
+= Test 10 ==================================================
+$> ./bz17kog70g3ss56hisxc8yi6 "Il9v2e8KutLorXnQk" ""
+$> diff -U 3 user_output_test10 test10.output | cat -e
+
+Diff OK :D
+= Test 11 ==================================================
+$> ./mgv4rfd1ugd9w0kivpygjys9 "2wQYoDe" "vZb"
+$> diff -U 3 user_output_test11 test11.output | cat -e
+
+Diff OK :D
+= Test 12 ==================================================
+$> ./zbnrio60xq200x25z1lgu6pc "PCN7dFTH" "MTPVNu2fimAsF"
+$> diff -U 3 user_output_test12 test12.output | cat -e
+
+Diff OK :D
+= Test 13 ==================================================
+$> ./07dz0btn7s97b46f3g1hvq7p "UKiQcsJNvdfyo" ""
+$> diff -U 3 user_output_test13 test13.output | cat -e
+
+Diff OK :D
+= Test 14 ==================================================
+$> ./ayfzjdshtqwglrhviwcug4vn "d8iaJoKFNAOI" "d8iaJoKFNAOI"
+$> diff -U 3 user_output_test14 test14.output | cat -e
+
+Diff OK :D
+= Test 15 ==================================================
+$> ./ntvxza4dckqghb9njklv3xea "YbwzitrWH" "hCIbp"
+$> diff -U 3 user_output_test15 test15.output | cat -e
+
+Diff OK :D
+= Test 16 ==================================================
+$> ./49sdqk4z5o3f9t0wfiv2wojg "3R0A7p" "3R0A7p"
+$> diff -U 3 user_output_test16 test16.output | cat -e
+
+Diff OK :D
+= Test 17 ==================================================
+$> ./fxqkc3rq6wc40dbe5wy8dyae "TBiHJOMXvRa" ""
+$> diff -U 3 user_output_test17 test17.output | cat -e
+
+Diff OK :D
+= Test 18 ==================================================
+$> ./mqgs7cwz7zt3e5ftbi3dr9t8 "AB0q4S6d" "0OLU67ZjyB2vr"
+$> diff -U 3 user_output_test18 test18.output | cat -e
+
+Diff OK :D
+= Test 19 ==================================================
+$> ./y6yu7qhe1dbe7n4l99oku2q8 "Z5KJqAdfmCewlFzkL" "Z5KJqAdfmCewlFzkL"
+$> diff -U 3 user_output_test19 test19.output | cat -e
+
+Diff OK :D
+= Test 20 ==================================================
+$> ./1vm4057hmiyup9uwrcx2vmn0 "Wl8nS2eKgot6drvhR" "Wl8nS2eKgot6drvhR"
+$> diff -U 3 user_output_test20 test20.output | cat -e
+
+Diff OK :D
+Grade: 1
+
+= Final grade: 1 ===============================================================

@@ -1,0 +1,11 @@
+= sort_list ====================================================================
+$> gcc -Wextra -Wall -Werror sort_list.c main.c -o user_exe 
+
+= Test 1 ===================================================
+$> ./8ayxe40jj5bbirmin0wu5gih
+$> diff -U 3 user_output_test1 test1.output | cat -e
+
+Diff OK :D
+Grade: 1
+
+= Final grade: 1 ===============================================================

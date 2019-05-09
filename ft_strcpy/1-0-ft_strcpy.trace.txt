@@ -1,0 +1,81 @@
+= ft_strcpy ====================================================================
+$> gcc -Wextra -Wall -Werror main.c ft_strcpy.c -o user_exe 
+
+= Test 1 ===================================================
+$> ./npugbmifv1bv1y3mk421khxf ""
+$> diff -U 3 user_output_test1 test1.output | cat -e
+
+Diff OK :D
+= Test 2 ===================================================
+$> ./kebfbo9muvdbolxencl1h9a2 "khYF"
+$> diff -U 3 user_output_test2 test2.output | cat -e
+
+Diff OK :D
+= Test 3 ===================================================
+$> ./vjt004gx8k8cxt90hh2fyit6 "hRwpYKvWHV58Bxz"
+$> diff -U 3 user_output_test3 test3.output | cat -e
+
+Diff OK :D
+= Test 4 ===================================================
+$> ./rjflnuqyjds93sy59rdnxhnk "EivrC3Bex48Yfj"
+$> diff -U 3 user_output_test4 test4.output | cat -e
+
+Diff OK :D
+= Test 5 ===================================================
+$> ./h1swcxtpbo6o9zof7agp38rz "3ir"
+$> diff -U 3 user_output_test5 test5.output | cat -e
+
+Diff OK :D
+= Test 6 ===================================================
+$> ./acrfbtct4i632mul5m9kuzlr "oxAWvGdKk"
+$> diff -U 3 user_output_test6 test6.output | cat -e
+
+Diff OK :D
+= Test 7 ===================================================
+$> ./y54v86qje2doqbum82pk6rro "oGRIfdn5DbqW"
+$> diff -U 3 user_output_test7 test7.output | cat -e
+
+Diff OK :D
+= Test 8 ===================================================
+$> ./eqc0fjcvlb8i80987drw3yf2 "krdTNE"
+$> diff -U 3 user_output_test8 test8.output | cat -e
+
+Diff OK :D
+= Test 9 ===================================================
+$> ./knoklpm6wojclq4lk6ujvfyt "sr8VN2jM15C0RUbgi"
+$> diff -U 3 user_output_test9 test9.output | cat -e
+
+Diff OK :D
+= Test 10 ==================================================
+$> ./600zynist7w50ob5thfo07ij "7TwSiEk"
+$> diff -U 3 user_output_test10 test10.output | cat -e
+
+Diff OK :D
+= Test 11 ==================================================
+$> ./naletpaa04oeua890gcyxabq "78Wx3If"
+$> diff -U 3 user_output_test11 test11.output | cat -e
+
+Diff OK :D
+= Test 12 ==================================================
+$> ./vupuw1d56iosswmivy4od928 "pPtnwHgxNyfW2X"
+$> diff -U 3 user_output_test12 test12.output | cat -e
+
+Diff OK :D
+= Test 13 ==================================================
+$> ./uwxm2sdbqg5xskw6lcvzsc7z "pWc62baqSHTkND"
+$> diff -U 3 user_output_test13 test13.output | cat -e
+
+Diff OK :D
+= Test 14 ==================================================
+$> ./9at1lxs5gyw9vx8vbs4k10cn "eh5ua"
+$> diff -U 3 user_output_test14 test14.output | cat -e
+
+Diff OK :D
+= Test 15 ==================================================
+$> ./3i4ifzhjs17s675g108ds50p "t6CFqIEp8"
+$> diff -U 3 user_output_test15 test15.output | cat -e
+
+Diff OK :D
+Grade: 1
+
+= Final grade: 1 ===============================================================
