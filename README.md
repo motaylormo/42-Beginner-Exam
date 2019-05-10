@@ -2,7 +2,7 @@
 Subject + trace + Moulinette-passing code.
 
 ### Level 00
-* `aff_last_param`
+* `[aff_last_param](./aff_last_param)`
 * `hello`
 * `only_z`
 ### Level 01
