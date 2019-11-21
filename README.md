@@ -4,17 +4,20 @@ Subject + trace + Moulinette-passing code.
 <table width="100%">
   <tr></tr>
   <tr>
-      <th>Level 00</th>
-      <th>Level 01</th>
-      <th>Level 02</th>
+      <th width="30%">Level 00</th>
+      <th width="30%">Level 01</th>
+      <th width="30%">Level 02</th>
   </tr>
   <tr valign="top">
     <td><ul>
+      <li>-[x] aff_a</li>
       <li>-[x] aff_last_param</li>
       <li>-[x] hello</li>
+      <li>-[x] maff_alpha</li>
       <li>-[x] only_z</li>
     </ul></td>
     <td><ul>
+      <li>-[x] first_word</li>
       <li>-[x] ft_strcpy</li>
       <li>-[x] ft_strlen</li>
       <li>-[x] rev_print</li>
@@ -42,12 +45,18 @@ Subject + trace + Moulinette-passing code.
       <li>-[x] ft_list_size</li>
       <li>-[x] ft_range</li>
       <li>-[x] lcm</li>
+      <li>-[x] pgcd</li>
       <li>-[x] print_hex</li>
       <li>-[x] tab_mult</li>
     </ul></td>
     <td><ul>
       <li>-[x] check_mate</li>
+      <li>-[ ] flood_fill</li>
       <li>-[x] fprime</li>
+      <li>-[x] ft_itoa</li>
+      <li>-[ ] ft_list_foreach</li>
+      <li>-[ ] ft_list_remove_if</li>
+      <li>-[ ] rev_wstr</li>
       <li>-[x] rostring</li>
       <li>-[x] sort_int_tab</li>
       <li>-[x] sort_list</li>
@@ -55,6 +64,7 @@ Subject + trace + Moulinette-passing code.
     <td><ul>
       <li>-[x] brackets</li>
       <li>-[x] ft_itoa_base</li>
+      <li>-[ ] rpn_calc</li>
     </ul></td>
   </tr>
 </table>
