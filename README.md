@@ -1,12 +1,60 @@
 # 42-Beginner-Exam
 Subject + trace + Moulinette-passing code.
 
-| Level 00 | Level 01 | Level 02 | Level 03 | Level 04 | Level 05 |
-| -------- | -------- | -------- | -------- | -------- | -------- |
-| [aff_last_param](./aff_last_param/mine) | [ft_strcpy](./ft_strcpy/mine)                   | [alpha_mirror](./alpha_mirror/mine) | [ft_list_size](./ft_list_size/mine) | [check_mate](./check_mate/mine) | [brackets](./brackets/mine)
-| [hello](./hello/mine)                   | [ft_strlen](./ft_strlen/mine)                   | [do_op](./do_op/mine)               | [ft_range](./ft_range/mine)         | [fprime](./fprime/mine)         | [ft_itoa_base](./ft_itoa_base/mine)
-| [only_z](./only_z/mine)                 | [rev_print](./rev_print/mine)                   | [ft_strcmp](./ft_strcmp/mine)       | [lcm](./lcm/mine)                   | [rostring](./rostring/mine)
-|                                         | [rotone](./rotone/mine)                         | [inter](./inter/mine)               | [print_hex](./print_hex/mine)       | [sort_int_tab](./sort_int_tab/mine)
-|                                         | [search_and_replace](./search_and_replace/mine) | [last_word](./last_word/mine)       | [tab_mult](./tab_mult/mine)         | [sort_list](./sort_list/mine)
-|                                         | [ulstr](./ulstr/mine)                           | [reverse_bits](./reverse_bits/mine)
-|                                         |                                                 | [wdmatch](./wdmatch/mine)
+<table width="100%">
+  <tr></tr>
+  <tr>
+      <th>Level 00</th>
+      <th>Level 01</th>
+      <th>Level 02</th>
+  </tr>
+  <tr valign="top">
+    <td><ul>
+      <li>-[x] aff_last_param</li>
+      <li>-[x] hello</li>
+      <li>-[x] only_z</li>
+    </ul></td>
+    <td><ul>
+      <li>-[x] ft_strcpy</li>
+      <li>-[x] ft_strlen</li>
+      <li>-[x] rev_print</li>
+      <li>-[x] rotone</li>
+      <li>-[x] search_and_replace</li>
+      <li>-[x] ulstr</li>
+    </ul></td>
+    <td><ul>
+      <li>-[x] alpha_mirror</li>
+      <li>-[x] do_op</li>
+      <li>-[x] ft_strcmp</li>
+      <li>-[x] inter</li>
+      <li>-[x] last_word</li>
+      <li>-[x] reverse_bits</li>
+      <li>-[x] wdmatch</li>
+    </ul></td>
+  </tr>
+  <tr>
+      <th>Level 03</th>
+      <th>Level 04</th>
+      <th>Level 05</th>
+  </tr>
+  <tr valign="top">
+    <td><ul>
+      <li>-[x] ft_list_size</li>
+      <li>-[x] ft_range</li>
+      <li>-[x] lcm</li>
+      <li>-[x] print_hex</li>
+      <li>-[x] tab_mult</li>
+    </ul></td>
+    <td><ul>
+      <li>-[x] check_mate</li>
+      <li>-[x] fprime</li>
+      <li>-[x] rostring</li>
+      <li>-[x] sort_int_tab</li>
+      <li>-[x] sort_list</li>
+    </ul></td>
+    <td><ul>
+      <li>-[x] brackets</li>
+      <li>-[x] ft_itoa_base</li>
+    </ul></td>
+  </tr>
+</table>
