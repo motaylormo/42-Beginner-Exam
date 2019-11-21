@@ -1,7 +1,7 @@
 # 42-Beginner-Exam
 Subject + trace + Moulinette-passing code.
 
-<table width="100%">
+<table>
   <tr></tr>
   <tr>
       <th width="30%">Level 00</th>
